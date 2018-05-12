@@ -1,0 +1,28 @@
+_repo: The-King-s-Achievement_16375
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Robert Hugh
+    alias: Benson, R. H. (Robert Hugh)
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '4052'
+    url: http://www.gutenberg.org/2009/agents/4052
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
+description: ''
+gutenberg_issued: '2005-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16375'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Fiction'
+title: The King's Achievement
+url: http://www.gutenberg.org/ebooks/16375
